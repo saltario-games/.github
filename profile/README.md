@@ -1,7 +1,6 @@
  <!--Head-->
 <h2 align="center">Hi! We 
-    <a href="http://saltario.ru/" target="_blank">Saltario Games</a> 
-    <img src="https://raw.githubusercontent.com/saltario/saltario/main/resources/hi-gif.gif" height="32"/>
+    <a href="http://saltario.ru/" target="_blank">Saltario Games <img src="https://github.com/saltario-games/.github/blob/main/profile/resources/fire.gif" height="20"></a>
 </h2>
  <!--Saltario Games-->
 <h3 align="center">I'd be happy to refer you to our website</h3>
