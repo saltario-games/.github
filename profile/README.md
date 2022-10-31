@@ -1,4 +1,8 @@
 <!--Saltario Games-->
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
 
  <style>
    h1 {
@@ -13,6 +17,9 @@
     text-align: center;
    }
 </style>
+</head> 
+
+ <body> 
 
 <h1> 
     Hi! We 
@@ -63,5 +70,8 @@
 </p>
 
 <h1></h1>
+
+ </body>
+</html>
 
 
