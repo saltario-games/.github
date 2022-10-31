@@ -1,6 +1,7 @@
  <!--Head-->
 <h2 align="center">Hi! We 
-    <a href="http://saltario.ru/" target="_blank">Saltario Games <img src="https://github.com/saltario-games/.github/blob/main/profile/resources/fire.gif" height="20"></a>
+    <a href="http://saltario.ru/" target="_blank">Saltario Games </a>
+    <img src="https://github.com/saltario-games/.github/blob/main/profile/resources/earth.gif" height="20">
 </h2>
  <!--Saltario Games-->
 <h3 align="center">I'd be happy to refer you to our website</h3>
@@ -32,7 +33,7 @@
     </a></p>
 
  <!--Feedback-->
- <h3 align="center">Feedback <img src="https://github.com/saltario-games/.github/blob/main/profile/resources/earth.gif" height="20"></h3>
+ <h3 align="center">Feedback</h3>
 <p align="center">
     <a href="https://t.me/saltario_games">
         <img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH5goHEhgpBKUFDAAABMRJREFUSMetl1tsVFUUhr99zpnOdKaFthS5lBaECrWCgAQhxHhB4huJ2sQHSCDRSIxgggnhGV8JDyQSo2kw4aEmGvASngyXZ4igBBELtFJ6Cw3tdJje5sycc34fZtrSzqVKWcnOSfbeZ/17rfXvtdcylJDtP3cDGIkG4G0wu4DNQJ2BGIBgDOgDboAuAJeMoRvQlXcbiuo2hSa3/dSD7dh4GW8NsN9AC4ZGoIzSkkZ0Cs4CZ2zH6Qx8n6vv1c8NvPXcA4AIsMcYcxRYx9PJHUnHge+A1G8tKwsDbzvfi+/6ADUGjmH4OHeA+UgK0So4BsTtsM3V3SsAcCZ3+CkPQY0xnBTsRVjzBJ303EGgSuKwn/LiMyze8kMXgogxHAcOUST28xABpySOGkhd/2AV5pXv70/CfAScegbuLe72rFGnEVgSKKBR4ohERIL5DD8Qni+CIG8tInEkh4VlLCG0T1KTJJ5mBDkwx8DahWXsWbuApuoQQZC3t0lon7GE4/taBablfwdNIhA4lqEu5rB1STlvLI+ysTZMdcTmi6uPuDXoYlt5dHnf9/WtI7HToMb/ypBAWUrURGw21oZ5sy7Gq0vLeS5i41hgjCHli74xD2VPOFvNC4KdDtIulchIyv0rIOZYrKsu4/W6GK8tj7J6YYgyy5AcTxMfzVBbGcE2EE/59I5kMBLKV1kG7HIkNhW3TjiWoaEyxI5lUd5aEWP9ojCVZdkr7mZ8HgxN4AdixaLYlFt7RjIMTngUNhiATY6kukKgFSGLzYvLeWdlBduXRlkSdZgMVyARH3HpH54gGrZZWVtByJnON+3DLuOZAMtAYVzqHImK2bOWgQ+bq9n3YhURZyY5xlyP/vg4ibE0tZVh6mtjOPY0aCC4PeTiB8JYRfNQhaMCvvAFv3QmGRjPsGNZlA21EarDFoPJFA8TE2S8gKXVUepqonmsfZz2uTvsYsgyv5g4EqPAgtkLnQmXjoTL2btJ6itD7F1dTmPUYIyhvjbGkqpyLJNvUe9Ihv7RTKn4AoxakvoKJQUDWEDaD7gTT3GhZxwvgJBjqIqVFQQFaI+7JF0fSiedPkvixlxp0DJw57HHIzfg4fAoV+71M5gcL0icm49SeIHmSq03LKSLktKlUiKCoZTP7eEMgQIGHo/zzbV+Tt8cIpkOpkCTaZ+/h1JzWZtGuuhIXAZ1AM2UEE/w+5BLYwSuJ+DXAQ+3a5BrAxN8vmUx62rC9I5k6E6ms49d8QDfE+ay4/vqsizOzQVsgPaER5sHHaOQ8gHEha4R/kmkObh5EfeG0yRcH1T0/gL8GATqMo2ttwEaEeeBplLgyg3DzEohEITs7IwXqFQV0Y5hN9Ax+R53SJyQSJUiBQKT+z45bwDPzz6NFP8/JXEih4XVeaCZbCpXm6RWZeWp3uUSQ5JaQW1CdB5onvbK81//hYEaiZPA3tw1fhYSAG3GcFgQv//JS8CsKtMO23HgsCCBnlF5a2g1cEwi7j9x9fJ4sOqrW+QA90iaV0FvjJkq6Ls+XT9jsSABG07dxPc8nFBoDbBf0IL+Ywtj6DBwDjjjeZlO23boPvRy3saS9XP9l39CtprJNW2aatqUa9rMdNP2B5iLwCUp27T1fLahqO5/AaVHavtiYuIKAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTEwLTA3VDE4OjI0OjQxKzAzOjAwHFHtQQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0xMC0wN1QxODoyNDo0MSswMzowMG0MVf0AAAAASUVORK5CYII=" alt="Telegram">
