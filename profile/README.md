@@ -1,12 +1,29 @@
 <!--Saltario Games-->
 
-<h1 align="center"> 
-    Hi! We <a href="http://saltario.ru/" target="_blank">Saltario Games</a> 
-    <h2 align="center">I'd be happy to refer you to our website</h2>
-<p align="center">
+ <style>
+   h1 {
+    text-align: center;
+   } 
+
+   h2 {
+    text-align: center;
+   }
+
+   p {
+    text-align: center;
+   }
+</style>
+
+<h1> 
+    Hi! We 
+    <a href="http://saltario.ru/" target="_blank">Saltario Games</a> 
+    <h2>I'd be happy to refer you to our website</h2>
+<p>
     <a href="http://saltario.ru/">
     <img src="https://img.shields.io/badge/-Saltario Games-090909?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAQAAACROWYpAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfmCh8RNijvTv2fAAACi0lEQVQ4y6WVS0iUURTHf/MQR3RQsRxQh8S0WZSiFrgShDZBuKhctEhcqBiJNCQVtBUigkCi565y4SYCpULCAUtQBjIEkXyk+MghjHyMIyM+vn8LJ5mXTuj5Vvfc8zv877nnOxd2LRs3g/gx0AGfgZ9B3GTvQiYAKrhPpS0ph/SQI76JVXxsbNHPPby7cAWvra4LNFFKGgdbgGFe0sP2OHV4wUGvVa1a1f/aqlplFR4cFhppuGhpJz1K4Bw9dNGPD3vUYZKpYISJPH7BgE3dUbn9eqwypQkhi06pXYGoiG7ZxIAJf4G9D2dY5i3e8oltLATxMgskcZM2bGEx81QxvQZGqZYiss7pmrJlkUWFuq4SIZSijoiYJZUKA1Su5TD3jm7LJJSjBj3VF3XJLoSq5A+LWla5UAw8IafQGT0I1d+vSiGUpeEY2Bx9k/MscpxzzJIKgJ0CANb5E3PrMXAyZkoYZZT1kOcsFiCXvBjYGu3Ix0kGYyzykHoySKcOMcYViuI1bOSZDd3SZeULWeVUmRr1TTsxXbZPwaRJteh82L/k0it9jwubY6UU0kwtrr31OB0840cc0XFgcFFLJ42U4cQKTLHAc5QYFh5u8ISTvMDDZ+6SxBYm3uNLXO1JmpjCgokWMsnkDv0EWWGeGXITwT9ZAHYYCq1TOU2QDxhsJJadFeqsadYAWOcEX/lNGscSyy6gmD5ghAHMTDHER3xAcahNI2EZpvA62qnHS5Ac3vBuT2oK9dgjymqAzAT8BCLy1dCMGSeje2gSzdRExATwQyDuGAroka7qUmgMFe07hsDNZrVWojYNLWhST9WmTs3IiNpdUbXYxA0OPIcavb04jjT0j/Tc/LNDPXR/AZqqliiNMUoUAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTEwLTMxVDE1OjU0OjQwKzAyOjAwbIbGDQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0xMC0zMVQxNTo1NDo0MCswMjowMB3bfrEAAAAASUVORK5CYII=" alt="website"></a></p>
 </h1>
+
+<h1></h1>
 
 <h2 align="center">You can find our apps here</h2>
 <p align="center">
