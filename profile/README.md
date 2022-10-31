@@ -3,9 +3,6 @@
     <a href="http://saltario.ru/" target="_blank">Saltario Games</a> 
     <img src="https://raw.githubusercontent.com/saltario/saltario/main/resources/hi-gif.gif" height="32"/>
 </h2>
-
-<h1></h1>
-
  <!--Saltario Games-->
 <h3 align="center">I'd be happy to refer you to our website</h3>
 <p align="center">
