@@ -1,5 +1,5 @@
  <!--Head-->
-<h2 align="center">Hi! We 
+<h2 align="center">Hi! We are  
     <a href="http://saltario.ru/" target="_blank">Saltario Games </a>
     <img src="https://github.com/saltario-games/.github/blob/main/profile/resources/earth.gif" height="20">
 </h2>
